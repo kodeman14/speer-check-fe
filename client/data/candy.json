@@ -1,0 +1,28 @@
+[{
+  "name": "cand1",
+  "title": "",
+  "avail": [
+    {
+      "mon": {
+        "start": "10",
+        "end": "12"
+      },
+      "tue": {
+        "start": "10",
+        "end": "12"
+      },
+      "wed": {
+        "start": "10",
+        "end": "12"
+      },
+      "thu": {
+        "start": "10",
+        "end": "12"
+      },
+      "fri": {
+        "start": "10",
+        "end": "12"
+      }
+    }
+  ]
+}]
